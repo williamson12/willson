@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Willson Emerald</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willson1432&label=Profile%20views&color=0e75b6&style=flat" alt="willson1432" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=willson1432&label=Profile%20views&color=0e75b6&style=flat" alt="willson Emerald" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willson1432" alt="willson1432" /></a> </p>
 
