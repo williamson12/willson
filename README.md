@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://willson4.wordpress.com/2024/06/25/artificial-intelligence-transforming-our-world/](https://willson4.wordpress.com/2024/06/25/artificial-intelligence-transforming-our-world/)
 
-- 💬 Ask me about **Feel free to ask**
+- 💬 **Feel free to ask**
 
 - 📫 How to reach me **Willsonemerald176@gmail.com**
 
