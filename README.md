@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Willsonemerald176@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/wills/Downloads/Profile.pdf](file:///C:/Users/wills/Downloads/Profile.pdf)
+- 📄 Know about my experiences https://www.linkedin.com/in/willson-emerald-65b62b232/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
